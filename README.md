@@ -98,18 +98,6 @@ If you renamed your utils.go file to quad_test.go, you can run:
 
 go test ./piscine -v
 
-👥 Team Workflow
-
-Each teammate should:
-
-1.Work on one Quad function (QuadA to QuadE).
-
-2.Use drawLine() — no repeated logic.
-
-3.Test using provided examples.
-
-4.Commit and push regularly.
-
 Git Workflow Example
 
 git add .
